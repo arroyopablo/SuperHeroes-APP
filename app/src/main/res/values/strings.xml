@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperHeroes</string>
+    <string name="title">SuperHeroes</string>
+    <string name="btSend">Send</string>
+    <string name="modificiacion">You send %s</string>
+    <string name="etHint">Heroe Name</string>
+</resources>

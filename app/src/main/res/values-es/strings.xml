@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Super Heroes</string>
+    <string name="title">Super Heroes</string>
+    <string name="btSend">Enviar</string>
+    <string name="modificiacion">Has enviado %s</string>
+    <string name="etHint">Nombre heroe</string>
+</resources>
